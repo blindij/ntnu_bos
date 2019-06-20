@@ -7,7 +7,9 @@ https://jupyterdemo.apps.stack.it.ntnu.no
 
 ???
 
-Login to Dataporten with Feide
+- Login to Dataporten with Feide
+- Uncertain about the persistence here
+- Things you create might only live for the life time of the container
 
 ---
 
@@ -15,6 +17,10 @@ Login to Dataporten with Feide
 
 <img src="img/kernels.png" style="height: 600px;"/>
 
+???
+- JupyterLab, the new design/format
+- Closer to a Integrated Development Environment
+- Expandable with widgets (GitHub, Google Drive)
 ---
 ## Explore...
 
@@ -26,13 +32,16 @@ Login to Dataporten with Feide
 
 <img src="img/launchclassic.png" style="height: 600px;"/>
 
+???
+- Classic look, goto the "Help" menu
+- 
 ---
 ## What is JupyterLab / Jupyter Notebook?
 A computing environment for literate computing.
 - Literate computing is text, formula and code interleaved to create a narrative.
 
 ???
-- Litterate computing:*The practitioner of literate programming can be re- garded as
+- Literate computing:*The practitioner of literate programming can be re- garded as
   an essayist, whose main concern is with ex- position and excellence of style.
   Such an author, with thesaurus in hand, chooses the names of variables care-
   fully and explains what each variable means. He or she strives for a program
@@ -45,6 +54,11 @@ A computing environment for literate computing.
 
 <img src="img/interleaved.png" style="height: 500px;"/>
 
+???
+- Some text
+- Some LATEX code
+- Interleaved with real code, here C++ REPL
+- Read-Evaluate-Print-Loop
 ---
 
 ## Some history
@@ -68,6 +82,10 @@ A computing environment for literate computing.
 
 <img src="img/notebook_components.png" style="width: 600px;"/>
 
+???
+- This is how it looks like at my laptop
+- More complex architecture with JupyterHub (authentication, spawner )
+- The Challenge, to get the necessary resources available (${HOME})
 ---
 
 ## Operating in a Graph vs Working in a Closet
