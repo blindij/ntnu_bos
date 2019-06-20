@@ -87,7 +87,13 @@ https://fineartamerica.com/featured/16th-century-woodcut-showing-an-alchemist-at
 
 ???
 Domain Specific Language hitting a boundary
+
 ---
 
 background-image: url(img/jupyterlogobackground.png)
 background-size: 1600px 900px
+
+### Presentation at http://bit.ly/ntnu-bos-june19
+Source  at https://github.com/blindij/ntnu_bos
+
+
